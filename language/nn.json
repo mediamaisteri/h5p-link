@@ -9,19 +9,18 @@
           "label": "Protocol",
           "options": [
             {
-              "value": "http://",
               "label": "http://"
             },
             {
-              "value": "https://",
               "label": "https://"
             },
             {
-              "value": "/",
-              "label": "(relativ)"
+              "label": "(root relative)"
+            },
+            {
+              "label": "other"
             }
-          ],
-          "default": "http://"
+          ]
         },
         {
           "label": "URL"

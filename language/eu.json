@@ -1,12 +1,12 @@
 {
   "semantics": [
     {
-      "label": "Tittel"
+      "label": "Izenburua"
     },
     {
       "fields": [
         {
-          "label": "Protokoll",
+          "label": "Protokoloa",
           "options": [
             {
               "label": "http://"
@@ -15,15 +15,15 @@
               "label": "https://"
             },
             {
-              "label": "(root relative)"
+              "label": "(erroarekiko erlatiboa)"
             },
             {
-              "label": "other"
+              "label": "beste bat"
             }
           ]
         },
         {
-          "label": "URL"
+          "label": "URLaa"
         }
       ]
     }

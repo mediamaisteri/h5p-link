@@ -1,12 +1,12 @@
 {
   "semantics": [
     {
-      "label": "Tittel"
+      "label": "タイトル"
     },
     {
       "fields": [
         {
-          "label": "Protokoll",
+          "label": "プロトコル",
           "options": [
             {
               "label": "http://"

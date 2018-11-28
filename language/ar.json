@@ -9,19 +9,18 @@
           "label": "بروتوكول",
           "options": [
             {
-              "value": "http://",
               "label": "http://"
             },
             {
-              "value": "https://",
               "label": "https://"
             },
             {
-              "value": "/",
-              "label": "(نسبي)"
+              "label": "(root relative)"
+            },
+            {
+              "label": "other"
             }
-          ],
-          "default": "http://"
+          ]
         },
         {
           "label": "الرابط"

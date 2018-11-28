@@ -15,13 +15,12 @@
               "label": "https://"
             },
             {
-              "label": "(relativ zum Hauptverzeichnis)"
+              "label": "(root relative)"
             },
             {
-              "label": "anderes"
+              "label": "other"
             }
-          ],
-          "default": "http://"
+          ]
         },
         {
           "label": "URL"
